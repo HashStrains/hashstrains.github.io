@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+<style>
+body {
+        background-color: black;
+}
+
+</style>
